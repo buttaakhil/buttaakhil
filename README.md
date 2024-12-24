@@ -9,7 +9,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buttaakhil" alt="buttaakhil" /></a> 
 </p>
 
-- 🔭 I’m currently working on **MERN Stack E-Commerce** and a **Deep Fake Detection Project** for the **Smart India Hackathon**  
+- 🔭 I recently completed **MERN Stack E-Commerce** and a **Deep Fake Detection Project** for the **Smart India Hackathon**  
 - 🌱 I’m currently learning **Backend Development** and **AI Technologies**  
 - 👯 I’m looking to collaborate on **Frontend, Backend, and Web Design Projects**  
 - 💬 Ask me about **MERN Stack, Web Development, and Full-Stack Projects**  
